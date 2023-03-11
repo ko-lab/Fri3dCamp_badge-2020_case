@@ -1,4 +1,4 @@
-# Laser Cut Fri3d Badge 2020 Case files
+# Laser Cut Fri3d Badge 2020 Case
 Here in the directory lasercut files for K40 Whisperer software.
 
 This offers some protection to the display and avoids shorting something.
